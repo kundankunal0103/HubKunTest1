@@ -12,6 +12,7 @@ double num,ans;
             case 1:
                 ans = num + Double.parseDouble(jTextField5.getText());
                 jTextField5.setText(Double.toString(ans));
+                System.out.println("Squash");
                 break;
                 
             case 2:
@@ -40,7 +41,7 @@ double num,ans;
     }
     public void enable(){
         jTextField5.setEnabled(true);
-
+        System.out.println("Squash");
         jButton1.setEnabled(true);
         jButton2.setEnabled(true);
         jButton3.setEnabled(true);
