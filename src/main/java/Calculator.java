@@ -80,6 +80,7 @@ double num,ans;
         jButton17.setEnabled(false);
         jButton18.setEnabled(false);
         jButton19.setEnabled(false);
+        System.out.print("0");
     }
     
     @SuppressWarnings("unchecked")
