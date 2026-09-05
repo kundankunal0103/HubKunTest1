@@ -49,7 +49,7 @@ double num,ans;
         jButton5.setEnabled(true);
         jButton6.setEnabled(true);
         jButton7.setEnabled(true);
-        System.out.println("Rebase------");
+        System.out.println("Reba---changes---");
         jButton8.setEnabled(true);
         jButton9.setEnabled(true);
         jButton10.setEnabled(true);
