@@ -8,7 +8,7 @@ double num,ans;
     public void arithemetic_operator(){
         switch(cal){
             case 0:
-                System.out.println("0");
+                System.out.println("01");
             case 1:
                 ans = num + Double.parseDouble(jTextField5.getText());
                 jTextField5.setText(Double.toString(ans));
