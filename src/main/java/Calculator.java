@@ -9,10 +9,14 @@ double num,ans;
         switch(cal){
             case 0:
 <<<<<<< HEAD
+<<<<<<< HEAD
                 System.out.println("01-01");
 =======
                 System.out.println("01");
 >>>>>>> ae88fb37f52f79ad037092416833fd4906fb0517
+=======
+                System.out.println("01-01");
+>>>>>>> 59342b8e001c3f4a64a0ae91b900575d6a02f78f
             case 1:
                 ans = num + Double.parseDouble(jTextField5.getText());
                 jTextField5.setText(Double.toString(ans));
