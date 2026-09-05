@@ -12,6 +12,7 @@ double num,ans;
             case 1:
                 ans = num + Double.parseDouble(jTextField5.getText());
                 jTextField5.setText(Double.toString(ans));
+                System.out.println("Squash");
                 break;
                 
             case 2:
