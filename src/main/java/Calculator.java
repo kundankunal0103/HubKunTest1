@@ -17,6 +17,7 @@ double num,ans;
             case 2:
                 ans = num - Double.parseDouble(jTextField5.getText());
                 jTextField5.setText(Double.toString(ans));
+                System.out.println("Rebase");
                 break;
                 
             case 3:
