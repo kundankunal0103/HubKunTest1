@@ -50,6 +50,7 @@ double num,ans;
         jButton9.setEnabled(true);
         jButton10.setEnabled(true);
         jButton11.setEnabled(true);
+        System.out.println("Rebase-Cus--");
         jButton12.setEnabled(true);
         jButton13.setEnabled(true);
         jButton14.setEnabled(true);
