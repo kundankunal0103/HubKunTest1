@@ -41,7 +41,7 @@ double num,ans;
     }
     public void enable(){
         jTextField5.setEnabled(true);
-
+        System.out.println("Squash");
         jButton1.setEnabled(true);
         jButton2.setEnabled(true);
         jButton3.setEnabled(true);
